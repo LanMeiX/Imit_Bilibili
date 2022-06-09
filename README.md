@@ -4,7 +4,8 @@
 
  本项目基于SpringCloud微服务架构+Springboot+JDK+Maven等技术，实现B站核心功能（视频流、弹幕流）+百万量级的高性能优化。该项目要求仿照目前比较流行的"哔哩哔哩"视频网站，以MVC架构为技术基础搭建网站后台，实现视频、弹幕、用户注册、动态订阅、粉丝关注等核心业务功能。该项目是一个后端工程，重点实现其中以用户关注、动态订阅、视频、弹幕等为主线的核心业务。
 
-![1654760337467](F:\个人简历+资料\Java项目\项目2：基于SpringBoot2的实战仿B站高性能后端项目\assets\1654760337467.png)
+![1654760337467](https://user-images.githubusercontent.com/82700457/172793573-fe8aae57-5a1d-4087-9049-80086058af7c.png)
+
 
 ## 2、技术栈
 
@@ -12,7 +13,8 @@ Spring、SpringBoot、JWT、Git、Mysql、MyBatis、FastDFS、Elasticsearch、Ro
 
 ## 3、项目架构
 
-![1654760268185](F:\个人简历+资料\Java项目\项目2：基于SpringBoot2的实战仿B站高性能后端项目\assets\1654760268185.png)
+![1654760268185](https://user-images.githubusercontent.com/82700457/172793621-dc172be6-7058-4139-81d0-5420d536bbcf.png)
+
 
 ## 4、业务开发流程
 
